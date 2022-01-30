@@ -2,7 +2,7 @@
 
 # Cara Menjalankan Program
 1. Install Node Module
-"npx <name>"
+- "npx name"
 2. Masukkan HTML pada public, ganti nama menjadi index 
 
 Dibuat Oleh: Christian Gunbawan - 13519199
